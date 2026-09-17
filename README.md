@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Rajpoot</h1>
 <h3 align="center">A passionate B.Tech CSE AI/ML student and developer from India 🇮🇳</h3>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/avinashverma39)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gavinashverma39)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/avinash_verma_51/)
