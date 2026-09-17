@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Rajpoot</h1>
-<h3 align="center">A passionate B.Tech CSE student and developer from India 🇮🇳</h3>
+<h3 align="center">A passionate B.Tech CSE AI/ML student and developer from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://github.com/ArunRajpoot">
